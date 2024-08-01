@@ -1,0 +1,25 @@
+{
+  "eslint.workingDirectories": [
+    "examples/lens-next-app",
+    "examples/lens-next-privy-app",
+    "examples/node",
+    "examples/react-native",
+    "examples/shared",
+    "examples/web",
+    "packages/api-bindings",
+    "packages/blockchain-bindings",
+    "packages/cli",
+    "packages/client",
+    "packages/domain",
+    "packages/eslint-config",
+    "packages/gated-content",
+    "packages/prettier-config",
+    "packages/react",
+    "packages/react-native",
+    "packages/react-web",
+    "packages/shared-kernel",
+    "packages/storage",
+    "packages/tsconfig",
+    "packages/wagmi"
+  ]
+}
